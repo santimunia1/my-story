@@ -1,2 +1,2 @@
-# my-story
+# MY-STORY
 my story
